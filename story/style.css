@@ -19,9 +19,12 @@ body#background {
 	width: 100%;
 }
 
-
-.balk{
-    width: 700px;
-    height: 100;
-	background-color: yellow;    
+.rechthoek{
+    width: 900px;
+    height: 35px;
+    border: 1px solid black;
+    
+}
+.geel{
+    background-color: yellow;
 }
