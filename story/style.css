@@ -18,3 +18,10 @@ body#background {
 #banner {
 	width: 100%;
 }
+
+
+.balk{
+    width: 700px;
+    height: 100;
+	background-color: yellow;    
+}
